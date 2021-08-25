@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm MOHAMMED MISHAL K</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmishalk&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmishalk" /> </p>
 
