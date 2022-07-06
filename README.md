@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/otsmishal" target="blank"><img src="https://img.shields.io/twitter/follow/otsmishal?logo=twitter&style=for-the-badge" alt="otsmishal" /></a> </p>
 
-- 🔭 I’m currently working on **College Project**
+- 🔭 I’m currently working on **self learing**
 
 - 🌱 I’m currently learning **BCA,react js,**
 
