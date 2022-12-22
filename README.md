@@ -167,7 +167,7 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed mishal and now  Self
 </details>
 
 
-## Recent GitHub Activity ✅
+<!-- ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#11](https://github.com/mohammedmishalk/file_validator/pull/11) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
 2. ❌ Closed PR [#10](https://github.com/mohammedmishalk/file_validator/pull/10) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
@@ -175,7 +175,7 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed mishal and now  Self
 4. ❌ Closed PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
 5. 🎉 Merged PR [#23](https://github.com/mohammedmishalk/beautify-github-profile/pull/23) in [mohammedmishalk/beautify-github-profile](https://github.com/mohammedmishalk/beautify-github-profile)
 <!--END_SECTION:activity-->
-
+ -->
 ## GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammedmishalk&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
