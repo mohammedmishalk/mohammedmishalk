@@ -22,11 +22,11 @@
 
 <div align="justify">
 
-[![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ots_mishal/)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/MOHAMMEDMISHAL-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ots_mishal/)&nbsp;&nbsp;
 
-[![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/OtsMishal/)&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedmishalk/)&nbsp;&nbsp;
-[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Otsmishal/)&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/MOHAMMEDMISHAL-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/OtsMishal/)&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/MOHAMMEDMISHAL-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedmishalk/)&nbsp;&nbsp;
+[![telegram](https://img.shields.io/badge/MOHAMMEDMISHAL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Otsmishal/)&nbsp;&nbsp;&nbsp;
 
 
  
