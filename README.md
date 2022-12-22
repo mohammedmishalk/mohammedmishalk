@@ -111,32 +111,21 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed mishal and now  Self
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
+   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
-      <br>redis
-    </td>
+    
   </tr>
  <tr>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
-      <br>Dart
-    </td>
-        <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
+      
+        
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
+          
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
@@ -167,15 +156,7 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed mishal and now  Self
 </details>
 
 
-<!-- ## Recent GitHub Activity ✅
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/mohammedmishalk/file_validator/pull/11) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
-2. ❌ Closed PR [#10](https://github.com/mohammedmishalk/file_validator/pull/10) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
-3. 💪 Opened PR [#10](https://github.com/mohammedmishalk/file_validator/pull/10) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
-4. ❌ Closed PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-5. 🎉 Merged PR [#23](https://github.com/mohammedmishalk/beautify-github-profile/pull/23) in [mohammedmishalk/beautify-github-profile](https://github.com/mohammedmishalk/beautify-github-profile)
-<!--END_SECTION:activity-->
- -->
+
 ## GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammedmishalk&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
