@@ -163,26 +163,20 @@ Hello friends ✋, welcome to my GitHub Page. I am Mohammed mishal and now  Self
   <summary>Activity Graph 📈</summary>
   <br/>
  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github.com/mohammedmishalk/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammedmishalk&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 </details>
 
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/rzashakeri/file_validator/pull/11) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-2. ❌ Closed PR [#10](https://github.com/rzashakeri/file_validator/pull/10) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-3. 💪 Opened PR [#10](https://github.com/rzashakeri/file_validator/pull/10) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+1. 🎉 Merged PR [#11](https://github.com/mohammedmishalk/file_validator/pull/11) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
+2. ❌ Closed PR [#10](https://github.com/mohammedmishalk/file_validator/pull/10) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
+3. 💪 Opened PR [#10](https://github.com/mohammedmishalk/file_validator/pull/10) in [mohammedmishalk/file_validator](https://github.com/mohammedmishalk/file_validator)
 4. ❌ Closed PR [#2108](https://github.com/vinta/awesome-python/pull/2108) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-5. 🎉 Merged PR [#23](https://github.com/rzashakeri/beautify-github-profile/pull/23) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+5. 🎉 Merged PR [#23](https://github.com/mohammedmishalk/beautify-github-profile/pull/23) in [mohammedmishalk/beautify-github-profile](https://github.com/mohammedmishalk/beautify-github-profile)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedmishalk&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
