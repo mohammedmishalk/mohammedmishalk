@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **coffee and bugs**
 
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm MOAHAMMED MISHASL K" title="👋 Hi there! I'm reza"/>
+
 
 <div align="justify">
 
